@@ -5,14 +5,14 @@ During my internship, I worked on few different tasks, gaining experience in Mac
 INTERNSHIP TASK - Retail Sales Data : Exploratory Data Analysis (EDA) 📊
 This project explores Retail Sales Data using Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights. The goal is to understand sales performance, customer behavior, and factors influencing revenue.
 
-Key Steps
+Key Steps : 
 ✔️ Data Cleaning & Preprocessing 🧹
 ✔️ Statistical Analysis 📈
 ✔️ Sales Trends & Seasonality Analysis 📊
 ✔️ Correlation Analysis 🔍
 ✔️ Visualizations using Matplotlib & Seaborn 🎨
 
-Results & Insights
+Results & Insights : 
 Identified peak sales months & seasonal trends
 Analyzed customer purchase patterns
 Found correlations between discounts & revenue
