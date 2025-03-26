@@ -8,14 +8,14 @@ This project explores Retail Sales Data using Exploratory Data Analysis (EDA) to
 
 Key Steps : 
 ✔️ Data Cleaning & Preprocessing 🧹
+✔️ Product,Gender sales analysis
 ✔️ Statistical Analysis 📈
 ✔️ Sales Trends & Seasonality Analysis 📊
-✔️ Correlation Analysis 🔍
 ✔️ Visualizations using Matplotlib & Seaborn 🎨
 
 Results & Insights : 
 Identified peak sales months & seasonal trends
 Analyzed customer purchase patterns
-Found correlations between discounts & revenue
+
 
 🚀 Future Scope: Predictive modeling for sales forecasting!
